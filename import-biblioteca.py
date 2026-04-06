@@ -1,0 +1,3 @@
+import biblioteca
+
+biblioteca.teste()
